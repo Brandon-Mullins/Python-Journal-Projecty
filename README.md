@@ -1,1 +1,1 @@
-# Python-Journal-Projecty
+# Python-Journal-Project
